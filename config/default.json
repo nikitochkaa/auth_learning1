@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "nikitochkaa auth",
+  "mongoUri": "mongodb+srv://nikitochkaa:ofMCIa8SmMyEezZN@cluster0.iixjnjf.mongodb.net/?retryWrites=true&w=majority"
+}
